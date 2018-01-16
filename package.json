@@ -1,0 +1,15 @@
+{
+  "name": "rename-index-tabs",
+  "main": "./lib/rename-index-tabs",
+  "version": "0.1.0",
+  "description": "Rename index file tab titles with previous directory.",
+  "scripts": {
+    "publish": "apm publish --tag TAGNAME"
+  },
+  "keywords": ["atom", "tabs", "rename", "title"],
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {}
+}
