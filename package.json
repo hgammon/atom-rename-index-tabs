@@ -1,11 +1,12 @@
 {
   "name": "rename-index-tabs",
   "main": "./lib/rename-index-tabs",
-  "version": "0.1.0",
-  "description": "Rename index file tab titles with previous directory.",
-  "scripts": {
-    "publish": "apm publish --tag TAGNAME"
+  "version": "0.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hgammon/atom-rename-index-tabs"
   },
+  "description": "Rename index file tab titles with previous directory.",
   "keywords": ["atom", "tabs", "rename", "title"],
   "license": "MIT",
   "engines": {
