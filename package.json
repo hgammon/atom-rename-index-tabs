@@ -1,7 +1,7 @@
 {
   "name": "rename-index-tabs",
   "main": "./lib/rename-index-tabs",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "repository": {
     "type": "git",
     "url": "https://github.com/hgammon/atom-rename-index-tabs"
